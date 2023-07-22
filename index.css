@@ -87,11 +87,11 @@
 .frame-parent {
   position: absolute;
   top: 40px;
-  left: 40px;
+  left: 25px;
   width: 1112px;
   align-items: center;
   justify-content: flex-start;
-  gap: 638px;
+  gap: 620px;
   font-size: 16px;
 }
 .label {
@@ -145,10 +145,10 @@
 .header {
   position: absolute;
   top: 135px;
-  left: 492px;
+  left: 420px;
   border: 1px solid var(--greyscale-200);
   box-sizing: border-box;
-  width: 664px;
+  width: 650px;
   justify-content: flex-end;
   font-size: var(--body-medium-medium-size);
   color: var(--greyscale-600);
@@ -164,7 +164,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 347.46px;
+  width: 320.46px;
   height: 236.23px;
 }
 .line-roundedbin-icon1 {
@@ -393,7 +393,7 @@
 .frame-container {
   position: absolute;
   top: 18px;
-  left: 23px;
+  left: 12px;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -403,8 +403,8 @@
 .frame-group {
   position: absolute;
   top: 241px;
-  left: 64px;
-  width: 347.46px;
+  left: 40px;
+  width: 340.46px;
   height: 236.23px;
   text-align: right;
 }
@@ -436,7 +436,7 @@
 .frame-parent9 {
   position: absolute;
   top: 18px;
-  left: 22.54px;
+  left: 6.54px;
   flex-direction: column;
   align-items: flex-end;
   gap: var(--gap-xs);
@@ -444,12 +444,12 @@
 .background7,
 .group-div {
   position: absolute;
-  width: 347.46px;
+  width: 340.46px;
   height: 236.23px;
 }
 .group-div {
   top: 241px;
-  left: 427.46px;
+  left: 375.46px;
   text-align: right;
 }
 .background7 {
@@ -489,7 +489,7 @@
 .frame-parent19 {
   position: absolute;
   top: 18px;
-  left: 22.08px;
+  left: 10.08px;
   flex-direction: column;
   align-items: flex-end;
   gap: var(--gap-xs);
@@ -497,18 +497,18 @@
 .content-inner {
   position: absolute;
   top: 241px;
-  left: 790.92px;
+  left: 712.92px;
   width: 347.46px;
   height: 236.23px;
   text-align: right;
 }
 .content-child {
   top: 217px;
-  left: 40px;
+  left: 20px;
   border-radius: var(--br-xs);
   border: 1px solid var(--greyscale-200);
   box-sizing: border-box;
-  width: 1116px;
+  width: 1060px;
   height: 925px;
 }
 .cell2,
@@ -670,7 +670,7 @@
 .sidebar {
   position: absolute;
   top: 0;
-  left: 1190px;
+  left: 1096px;
   background-color: var(--greyscale-50);
   width: 250px;
   font-size: var(--body-medium-medium-size);
