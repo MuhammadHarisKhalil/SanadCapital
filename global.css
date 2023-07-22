@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-medium-medium: "DIN Next LT Arabic";
+
+  /* font sizes */
+  --body-medium-medium-size: 14px;
+  --font-size-xs: 12px;
+  --font-size-3xs-8: 9.8px;
+  --font-size-3xs: 10px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-snow-100: #fff7f5;
+  --color-snow-200: #fff5f5;
+  --alerts-error-base: #ff4747;
+  --others-orange: #ff784b;
+  --color-mintcream: #f6fdf9;
+  --alerts-success-base: #22c55e;
+  --others-white: #fff;
+  --greyscale-50: #fafafa;
+  --greyscale-900: #1a202c;
+  --greyscale-600: #718096;
+  --primary-base: #0249ac;
+  --others-teal: #4bb6ae;
+  --greyscale-200: #edf2f7;
+  --greyscale-100: #f7fafc;
+
+  /* Gaps */
+  --gap-xs: 12px;
+  --gap-2xs: 11px;
+  --gap-9xs: 4px;
+  --gap-10xs: 3px;
+  --gap-59xl: 78px;
+  --gap-147xl: 166px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-base: 16px;
+  --padding-3xs-8: 9.8px;
+  --padding-6xs-9: 6.9px;
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-xs: 12px;
+  --br-5xs-9: 7.9px;
+  --br-base-8: 15.8px;
+  --br-981xl: 1000px;
+}
